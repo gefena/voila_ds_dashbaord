@@ -15,7 +15,7 @@ if __name__ == '__main__':
     #example: voila example.ipynb --port 8888
     try:
         os.system("voila " + filename + " --port " + str(port))
-        #os.system("voila " + filename + " --debug" + "--port " + str(port))
+        #os.system("voila " + filename + " --debug" + " --port " + str(port))
     except:
         print("ERROR running voila")
     
