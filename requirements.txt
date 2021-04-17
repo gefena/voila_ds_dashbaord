@@ -1,0 +1,6 @@
+voila
+voila-material
+pandas
+numpy
+matplotlib
+plotly
